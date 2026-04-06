@@ -30,4 +30,4 @@ Plugin for GTA:SA v210 to enable players to join SAMP/MTA matches
 - [] Update internal libraries and fix the code base inconsistency (*)
 - [] Implement .txd/.dff dynamic loader (uncompress .txt for each GPU platform if needed)
 - [x] Add libRakNet to the vendor directory
-```
+``` 
